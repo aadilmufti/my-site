@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'megui.jpg',
   paragraphOne:
-    "Hi, I'm Aadil and I am currently a student at New York University studying Computer Science.",
+    "Hi, I'm Aadil and I am currently a Data Analyst at Publicis Media and a graduate of New York University majoring in Computer Science.",
   paragraphTwo:
     'I have a keen interest in various fields within CS including Data Analytics, Cybersecurity and Web Development. I have had multiple internships accross these fields, and I am always looking for ways to integrate them with each other!',
   paragraphThree:
