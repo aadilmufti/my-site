@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'megui.jpg',
+  img: 'me2.jpg',
   paragraphOne:
     "Hi, I'm Aadil and I am currently a Data Analyst at Publicis Media and a graduate of New York University majoring in Computer Science.",
   paragraphTwo:
