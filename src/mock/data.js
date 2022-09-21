@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'me2.jpg',
   paragraphOne:
-    "Hi, I'm Aadil and I am currently a Data Analyst at Publicis Media and a graduate of New York University majoring in Computer Science.",
+    "Hi, I'm Aadil and I am currently a Data Analyst at Y42 and a graduate of New York University majoring in Computer Science.",
   paragraphTwo:
-    'I have a keen interest in various fields within CS including Data Analytics, Cybersecurity and Web Development. I have had multiple internships accross these fields, and I am always looking for ways to integrate them with each other!',
+    'I have a keen interest in various fields within Computer Science including Data Analytics, Cybersecurity and Web Development. I have had multiple internships accross these fields, and I am always looking for ways to integrate them with each other!',
   paragraphThree:
     "Aside from coding, I love to make music. Lately, I've been looking into Audio Programming and the intersection between code + music has been eye-opening! I'm also a massive tennis head, ¡Vamos Rafa!",
   resume: '', // if no resume, the button will not show up
