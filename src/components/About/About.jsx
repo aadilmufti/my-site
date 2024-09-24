@@ -22,11 +22,11 @@ const About = () => {
   }, []);
 
   const renderParagraphOne = () => {
-    const parts = paragraphOne.split('XXX');
+    const parts = paragraphOne.split('Y42');
     return (
       <p className="about-wrapper__info-text">
         {parts[0]}
-        <a href="https://www.xxx.com/" target="_blank" rel="noopener noreferrer">XXX</a>
+        <a href="https://www.y42.com/" target="_blank" rel="noopener noreferrer">XXX</a>
         {parts[1]}
       </p>
     );
