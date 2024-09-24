@@ -22,11 +22,11 @@ const About = () => {
   }, []);
 
   const renderParagraphOne = () => {
-    const parts = paragraphOne.split('Y42');
+    const parts = paragraphOne.split('XXX');
     return (
       <p className="about-wrapper__info-text">
         {parts[0]}
-        <a href="https://www.y42.com/" target="_blank" rel="noopener noreferrer">XXX</a>
+        <a href="https://www.xxx.com/" target="_blank" rel="noopener noreferrer">XXX</a>
         {parts[1]}
       </p>
     );
@@ -67,13 +67,15 @@ const About = () => {
                     </a>
                   </span>
                 )}
-                
-                  href="https://open.spotify.com/album/5UJvuewgB5yqVReEFdNP7v?highlight=spotify:track:60EXhGrQgfk0OgU2drLdp0"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Check out my band, The Willows!
-                </a>
+                <p>
+                  
+                    href="https://open.spotify.com/album/5UJvuewgB5yqVReEFdNP7v?highlight=spotify:track:60EXhGrQgfk0OgU2drLdp0"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Check out my band, The Willows!
+                  </a>
+                </p>
               </div>
             </Fade>
           </Col>
